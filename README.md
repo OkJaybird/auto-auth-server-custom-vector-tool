@@ -1,6 +1,6 @@
 Custom Vector Tool
 ===================================
-Helper project for Auto-Auth-Server which allows for admin creation and utilization of specialized models for portals. See https://github.com/foxfire206/Auto-Auth-Server for more info.
+Helper project for Auto-Auth-Server which allows for admin creation and utilization of specialized models for portals. See https://github.com/OkJaybird/auto-auth-server for more info.
 
 Setup
 ===================================
